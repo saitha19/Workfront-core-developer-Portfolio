@@ -16,3 +16,5 @@ Workfront is built on a relational object model that connects projects, tasks, i
 - Users belong to groups; groups control access and governance.
 
 Understanding these relationships is essential for reporting, permissions, and workflow design.
+
+<img width="791" height="573" alt="Workfrot_objects_hierarchy" src="https://github.com/user-attachments/assets/f66dc24b-e70b-4ccb-bac8-07d941c27e3f" />
