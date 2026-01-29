@@ -8,3 +8,9 @@
 - Requests can be converted into tasks or projects.
 - Requests can be assigned / routed to individuals or Teams
 
+## Where to find requests
+  In addition to the Requests page, requests can be found in other places including:
+  - A Teams page
+  - In Workfront Home
+  - On a dashboard used by teams trafficking requests.
+
