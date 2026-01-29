@@ -1,5 +1,5 @@
 # Requests
-  Requests are the Primary way unplanned work comes into the system.
+  Requests are used in Workfront as the first step in kicking off a new project, developing a new product, or creating a deliverable. You can    track the progress on the request and provide additional information when needed.
 
 ## Key Points
 - Requests are often the starting point of how work comes into Workfront, so a Request = Work intake.
