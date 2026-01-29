@@ -5,10 +5,9 @@
     - Using access level you can control what user can see and can do on different workfront objects or areas
 
 ## Built - in Access Levels
-  Adobe workfront has 5 Built-in Access levels
-  1.System Administrator : User with this access level can do everything within the workfront. This access level cannnot be modified.      
-  2.Standard
-  3.Light
-  4.Contributor
-  5.External
+--  Adobe workfront has 5 Built-in Access levels
+  - System Administrator : User with this access level can do everything within the workfront. This access level cannnot be modified.            - Standard
+  - Light
+  - Contributor
+  - External
 
